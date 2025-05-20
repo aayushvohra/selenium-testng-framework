@@ -1,0 +1,33 @@
+# Maven target directory
+/target/
+
+# Eclipse / IntelliJ / VSCode files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build output
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test Reports (optional)
+test-output/
+surefire-reports/
+
+# Ignore environment config
+.env
